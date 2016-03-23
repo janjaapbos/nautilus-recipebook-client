@@ -10,14 +10,14 @@ Start the example GraphQL service (https://github.com/AlecAivazis/recipeBook)
 In order to run/build this app, clone the repo to a local directory by running the following command in your terminal:
 
 ```bash
-git clone https://github.com/janjaapbos/nautilus-recipebook-client
+git clone https://github.com/janjaapbos/nautilus-recipebook-react-redux-client
 ```
 
 ## Installation
 In order to run/build this app, clone the repo to a local directory by running the following command in your terminal:
 
 ```bash
-git clone https://github.com/janjaapbos/nautilus-recipebook-client
+git clone https://github.com/janjaapbos/nautilus-recipebook-react-redux-client
 npm install
 ```
 
