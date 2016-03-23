@@ -1,9 +1,9 @@
 # React client for Nautilus recipeBook example
 
-Adapted example from Alec Aivazis (https://github.com/aaivazis)
+Adapted example from Alec Aivazis (https://github.com/AlecAivazis)
 
 ## Prerequisites
-Start the example GraphQL service (https://github.com/aaivazis/recipeBook)
+Start the example GraphQL service (https://github.com/AlecAivazis/recipeBook)
 
 # Installation
 
