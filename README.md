@@ -23,4 +23,5 @@ npm install
 
 ## Start
 GRAPHQL should refer to the GraphQL endpoint service to be used.
-    GRAPHQL="http://localhost:5000" npm start
+```GRAPHQL="http://localhost:5000" npm start
+```
